@@ -1,0 +1,1 @@
+# Applied_Gradient_Descent_manually_for_Neural_Network
